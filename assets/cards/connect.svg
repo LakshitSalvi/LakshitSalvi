@@ -27,7 +27,8 @@
 <text x="90" y="225" class="t">Open to Data Analyst opportunities, collaborations, and analytics projects.</text>
 <text x="90" y="260" class="t">Based in India • Open to Remote &amp; Relocation</text>
 
-<rect x="60" y="365" width="1160" height="220" rx="18" class="card"/>
+<rect x="60" y="365" width="1160" height="22" rx="18" class="card"/>
 <text x="90" y="405" class="h">FIND ME ONLINE</text>
+<line x1="60" y1="635" x2="1220" y2="635" stroke="#30363D"/>
 <text x="60" y="672" class="t">Thanks for visiting my profile. Happy coding!</text>
 </svg>
