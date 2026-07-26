@@ -15,42 +15,28 @@
 </div>
 
 <p align="center"><img src="assets/cards/hero.svg" width="100%"/></p>
+
 <p align="center"><img src="assets/cards/profile.svg" width="100%"/></p>
+
 <p align="center"><img src="assets/cards/stack.svg" width="100%"/></p>
+
 <p align="center"><img src="assets/cards/case-studies.svg" width="100%"/></p>
+
 <p align="center"><img src="assets/cards/mission-control.svg" width="100%"/></p>
+
 <p align="center"><img src="assets/cards/currently-building.svg" width="100%"/></p>
+
 <p align="center"><img src="assets/cards/achievements.svg" width="100%"/></p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LakshitSalvi&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshitSalvi&layout=compact&hide_border=true&theme=github_dark_dimmed"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LakshitSalvi&theme=github-dark&hide_border=true"/>
-</p>
+<p align="center"><img src="assets/cards/projects.svg" width="100%"/></p>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Contribution Graph
 
-<a href="https://github.com/LakshitSalvi/DA-00-Analytics-Learning-Lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshitSalvi&repo=DA-00-Analytics-Learning-Lab&theme=github_dark_dimmed&hide_border=true"/>
-</a>
-
-> Additional repositories will appear here as they are completed:
->
-> - RetailHub Enterprise Analytics
-> - FinSight Banking Analytics
-> - HealthPulse Healthcare Analytics
-> - SupplyChainIQ
-> - SaaS360 Business Analytics
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshitSalvi&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
