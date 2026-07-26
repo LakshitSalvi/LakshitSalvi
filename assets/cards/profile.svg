@@ -1,60 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="520">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#161B22"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0D1117"/><stop offset="100%" stop-color="#161B22"/>
+</linearGradient>
+<style>
+.t{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+</style>
+</defs>
+<rect width="1280" height="640" rx="28" fill="url(#bg)"/>
+<rect x="20" y="20" width="1240" height="600" rx="22" fill="#1B2129" stroke="#30363D"/>
+<text class="t" x="60" y="78" font-size="36" font-weight="700" fill="#F8FAFC">PROFILE</text>
+<line x1="60" y1="98" x2="1220" y2="98" stroke="#30363D"/>
 
-  <rect width="1280" height="520" rx="28" fill="url(#bg)"/>
-  <rect x="20" y="20" width="1240" height="480" rx="24" fill="#1B2129" stroke="#30363D"/>
+<text class="t" x="60" y="145" font-size="16" font-weight="700" fill="#F59E0B">ABOUT</text>
+<text class="t" x="60" y="178" font-size="19" fill="#D1D5DB">Data Analyst passionate about transforming raw</text>
+<text class="t" x="60" y="206" font-size="19" fill="#D1D5DB">data into business insights using SQL, Python,</text>
+<text class="t" x="60" y="234" font-size="19" fill="#D1D5DB">Excel and Power BI while building practical</text>
+<text class="t" x="60" y="262" font-size="19" fill="#D1D5DB">analytics solutions for real-world problems.</text>
 
-  <text x="60" y="80"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="34"
-        font-weight="700"
-        fill="#F8FAFC">PROFILE</text>
+<text class="t" x="700" y="145" font-size="16" font-weight="700" fill="#F59E0B">EDUCATION</text>
+<rect x="700" y="160" width="500" height="125" rx="14" fill="#161B22" stroke="#30363D"/>
+<text class="t" x="725" y="195" font-size="21" font-weight="700" fill="#F8FAFC">Master of Computer Applications</text>
+<text class="t" x="725" y="220" font-size="16" fill="#F59E0B">GITS, Udaipur</text>
+<text class="t" x="725" y="252" font-size="17" fill="#D1D5DB">BBA (Computer Applications) • MIT-WPU</text>
 
-  <line x1="60" y1="100" x2="1220" y2="100" stroke="#30363D"/>
+<text class="t" x="60" y="335" font-size="16" font-weight="700" fill="#F59E0B">EXPERIENCE</text>
+<rect x="60" y="350" width="560" height="165" rx="14" fill="#161B22" stroke="#30363D"/>
+<circle cx="92" cy="392" r="6" fill="#F59E0B"/>
+<line x1="92" y1="398" x2="92" y2="470" stroke="#4B5563"/>
+<text class="t" x="115" y="392" font-size="21" font-weight="700" fill="#F8FAFC">Research Analyst</text>
+<text class="t" x="115" y="418" font-size="16" fill="#F59E0B">Arcgate • Udaipur</text>
+<text class="t" x="115" y="448" font-size="16" fill="#D1D5DB">Structured datasets, automated Excel workflows</text>
+<text class="t" x="115" y="472" font-size="16" fill="#D1D5DB">and supported analytics projects.</text>
 
-  <text x="60" y="145" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="18" font-weight="700" fill="#F59E0B">ABOUT</text>
+<text class="t" x="700" y="335" font-size="16" font-weight="700" fill="#F59E0B">CERTIFICATIONS</text>
+<rect x="700" y="350" width="500" height="165" rx="14" fill="#161B22" stroke="#30363D"/>
+<rect x="725" y="378" width="110" height="34" rx="17" fill="#222B35"/><text class="t" x="753" y="400" font-size="15" fill="#F8FAFC">SQL</text>
+<rect x="850" y="378" width="110" height="34" rx="17" fill="#222B35"/><text class="t" x="869" y="400" font-size="15" fill="#F8FAFC">Power BI</text>
+<rect x="975" y="378" width="110" height="34" rx="17" fill="#222B35"/><text class="t" x="1007" y="400" font-size="15" fill="#F8FAFC">Excel</text>
+<rect x="725" y="425" width="110" height="34" rx="17" fill="#222B35"/><text class="t" x="750" y="447" font-size="15" fill="#F8FAFC">Java</text>
+<rect x="850" y="425" width="170" height="34" rx="17" fill="#222B35"/><text class="t" x="869" y="447" font-size="15" fill="#F8FAFC">Tata iQ</text>
 
-  <text x="60" y="180"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="20"
-        fill="#D1D5DB">
-    Data Analyst focused on SQL, Python, Excel and Power BI for solving business problems.
-  </text>
+<text class="t" x="60" y="565" font-size="16" font-weight="700" fill="#F59E0B">CURRENT FOCUS</text>
+<text class="t" x="60" y="593" font-size="18" fill="#D1D5DB">Data Analytics • SQL • Portfolio Projects</text>
 
-  <text x="60" y="235" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="18" font-weight="700" fill="#F59E0B">EXPERIENCE</text>
-
-  <rect x="60" y="255" width="560" height="90" rx="14" fill="#161B22" stroke="#30363D"/>
-  <text x="80" y="285" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="20" font-weight="700" fill="#F8FAFC">Research Analyst • Arcgate</text>
-  <text x="80" y="315" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="16" fill="#D1D5DB">Worked on data structuring, Excel automation and analytics projects.</text>
-
-  <text x="680" y="145" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="18" font-weight="700" fill="#F59E0B">EDUCATION</text>
-
-  <rect x="680" y="165" width="540" height="90" rx="14" fill="#161B22" stroke="#30363D"/>
-  <text x="700" y="195" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="20" font-weight="700" fill="#F8FAFC">MCA • GITS, Udaipur</text>
-  <text x="700" y="225" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="16" fill="#D1D5DB">Master of Computer Applications</text>
-
-  <text x="680" y="295" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="18" font-weight="700" fill="#F59E0B">CERTIFICATIONS</text>
-
-  <rect x="680" y="315" width="540" height="130" rx="14" fill="#161B22" stroke="#30363D"/>
-  <text x="700" y="345" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="17" fill="#F8FAFC">• HackerRank SQL</text>
-  <text x="700" y="375" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="17" fill="#F8FAFC">• HackerRank Java</text>
-  <text x="700" y="405" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="17" fill="#F8FAFC">• Power BI</text>
-  <text x="700" y="435" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="17" fill="#F8FAFC">• Tata iQ Data Analytics Simulation</text>
+<text class="t" x="700" y="565" font-size="16" font-weight="700" fill="#F59E0B">LOCATION</text>
+<text class="t" x="700" y="593" font-size="18" fill="#D1D5DB">Udaipur, Rajasthan • Open to Relocate</text>
 </svg>
