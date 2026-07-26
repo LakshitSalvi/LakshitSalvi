@@ -4,56 +4,68 @@
 
 <img src="assets/banner.png" width="100%" alt="Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Building+Real-World+Analytics+Projects;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Building+Real-World+Analytics+Projects;Turning+Data+Into+Business+Insights)](https://git.io/typing-svg)
 
+<p>
 <a href="https://github.com/LakshitSalvi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lakshitsalvi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:salvilakshit@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
----
+<p align="center"><img src="assets/cards/hero.svg" width="100%"/></p>
+<p align="center"><img src="assets/cards/profile.svg" width="100%"/></p>
+<p align="center"><img src="assets/cards/stack.svg" width="100%"/></p>
+<p align="center"><img src="assets/cards/case-studies.svg" width="100%"/></p>
+<p align="center"><img src="assets/cards/mission-control.svg" width="100%"/></p>
+<p align="center"><img src="assets/cards/currently-building.svg" width="100%"/></p>
+<p align="center"><img src="assets/cards/achievements.svg" width="100%"/></p>
 
-<p align="center"><img src="assets/cards/hero.svg" width="100%"></p>
-<p align="center"><img src="assets/cards/profile.svg" width="100%"></p>
-<p align="center"><img src="assets/cards/stack.svg" width="100%"></p>
-<p align="center"><img src="assets/cards/case-studies.svg" width="100%"></p>
-<p align="center"><img src="assets/cards/mission-control.svg" width="100%"></p>
-<p align="center"><img src="assets/cards/currently-building.svg" width="100%"></p>
-<p align="center"><img src="assets/cards/achievements.svg" width="100%"></p>
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LakshitSalvi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshitSalvi&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LakshitSalvi&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github"/>
 
-## 📈 Contribution Graph
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshitSalvi&layout=compact&hide_border=true&theme=github_dark_dimmed"/>
+</p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshitSalvi&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LakshitSalvi&theme=github-dark&hide_border=true"/>
 </p>
 
-## 🚀 Featured Repositories
+---
 
-- ⭐ **DA-00-Analytics-Learning-Lab**
-- 🛒 **DA-01-RetailHub-Enterprise-Analytics**
-- 🏦 **DA-02-FinSight-Banking-Analytics**
-- 🏥 **DA-03-HealthPulse-Healthcare-Analytics**
-- 🚚 **DA-04-SupplyChainIQ**
-- ☁ **DA-05-SaaS360-Business-Analytics**
+## 🚀 Featured Projects
 
-<p align="center"><img src="assets/cards/connect.svg" width="100%"></p>
+<a href="https://github.com/LakshitSalvi/DA-00-Analytics-Learning-Lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshitSalvi&repo=DA-00-Analytics-Learning-Lab&theme=github_dark_dimmed&hide_border=true"/>
+</a>
+
+> Additional repositories will appear here as they are completed:
+>
+> - RetailHub Enterprise Analytics
+> - FinSight Banking Analytics
+> - HealthPulse Healthcare Analytics
+> - SupplyChainIQ
+> - SaaS360 Business Analytics
+
+---
+
+<p align="center">
+<img src="assets/cards/connect.svg" width="100%"/>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=LakshitSalvi&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=LakshitSalvi&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-### ⭐ Thanks for visiting!
+### Building data-driven solutions, one project at a time.
 
-**Learn • Build • Ship • Repeat**
+**Learn • Build • Analyze • Repeat**
 
 </div>
