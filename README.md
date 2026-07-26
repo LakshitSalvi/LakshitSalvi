@@ -1,6 +1,6 @@
+<div align="center">
 # Hi, I'm Lakshit Salvi 👋
 
-<div align="center">
 
 <img src="assets/banner.png" width="100%" alt="Banner"/>
 
