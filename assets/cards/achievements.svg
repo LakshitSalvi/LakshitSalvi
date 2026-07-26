@@ -1,0 +1,47 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0D1117"/>
+<stop offset="100%" stop-color="#161B22"/>
+</linearGradient>
+<style>
+*{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.title{fill:#F8FAFC;font-size:40px;font-weight:700}
+.h{fill:#F59E0B;font-size:18px;font-weight:700}
+.t{fill:#D1D5DB;font-size:18px}
+.v{fill:#F8FAFC;font-size:22px;font-weight:700}
+.card{fill:#161B22;stroke:#30363D}
+.badge{fill:#222B35;stroke:#30363D}
+</style>
+</defs>
+
+<rect width="1280" height="720" rx="28" fill="url(#bg)"/>
+<rect x="20" y="20" width="1240" height="680" rx="24" fill="#1B2129" stroke="#30363D"/>
+
+<text x="60" y="82" class="title">ACHIEVEMENTS</text>
+<line x1="60" y1="105" x2="1220" y2="105" stroke="#30363D"/>
+
+<rect x="60" y="140" width="550" height="190" rx="18" class="card"/>
+<text x="90" y="175" class="h">CERTIFICATIONS</text>
+<text x="90" y="215" class="v">4+</text>
+<text x="90" y="245" class="t">Excel • Power BI</text>
+<text x="90" y="273" class="t">SQL • Tata iQ</text>
+
+<rect x="670" y="140" width="550" height="190" rx="18" class="card"/>
+<text x="700" y="175" class="h">EDUCATION</text>
+<text x="700" y="215" class="v">BBA CGPA 9.16</text>
+<text x="700" y="248" class="t">Computer Applications</text>
+<text x="700" y="282" class="t">MCA Completed</text>
+
+<rect x="60" y="370" width="1160" height="220" rx="18" class="card"/>
+<text x="90" y="405" class="h">SKILLS VERIFIED</text>
+<rect x="90" y="440" width="150" height="44" rx="22" class="badge"/><text x="165.0" y="468" text-anchor="middle" fill="#F8FAFC" font-size="16">SQL</text><rect x="268" y="440" width="150" height="44" rx="22" class="badge"/><text x="343.0" y="468" text-anchor="middle" fill="#F8FAFC" font-size="16">Python</text><rect x="446" y="440" width="150" height="44" rx="22" class="badge"/><text x="521.0" y="468" text-anchor="middle" fill="#F8FAFC" font-size="16">Excel</text><rect x="90" y="510" width="150" height="44" rx="22" class="badge"/><text x="165.0" y="538" text-anchor="middle" fill="#F8FAFC" font-size="16">Power BI</text><rect x="268" y="510" width="150" height="44" rx="22" class="badge"/><text x="343.0" y="538" text-anchor="middle" fill="#F8FAFC" font-size="16">MySQL</text><rect x="446" y="510" width="150" height="44" rx="22" class="badge"/><text x="521.0" y="538" text-anchor="middle" fill="#F8FAFC" font-size="16">Git</text>
+<rect x="670" y="430" width="510" height="120" rx="16" class="badge"/>
+<text x="700" y="465" class="h">PUBLIC PORTFOLIO</text>
+<text x="700" y="500" class="t">Building enterprise-grade</text>
+<text x="700" y="528" class="t">analytics case studies.</text>
+
+<line x1="60" y1="635" x2="1220" y2="635" stroke="#30363D"/>
+<text x="60" y="670" class="t">Learning consistently • Building publicly • Improving every day</text>
+</svg>
